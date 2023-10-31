@@ -1,5 +1,7 @@
 ﻿using FluentResults;
 
+// https://github.com/altmann/FluentResults
+
 var successResult1 = Result.Ok();
 
 // create a result which indicates failure
